@@ -1,0 +1,30 @@
+
+.container {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.player, h2 {
+  padding: 0.5em;
+  color: #ffffff;
+  display: inline-block;
+}
+
+.score h2 {
+  display: block;
+}
+
+body {
+  background-color: #1d1d1c;
+}
+
+button {
+	background-color: #808080;
+	color: #ffffff;
+	padding: 1em 5em;
+	margin-top: 2em;
+	border-radius: 5em;
+	outline: none;
+}
